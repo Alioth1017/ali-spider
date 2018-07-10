@@ -1,0 +1,24 @@
+{
+  "name": "ali-spider",
+  "version": "1.0.0",
+  "description": "个人爬虫项目，使用headless-chrome-crawler,基于puppeteer实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoujun1991/ali-spider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoujun1991/ali-spider/issues"
+  },
+  "homepage": "https://github.com/zhoujun1991/ali-spider#readme",
+  "dependencies": {
+    "headless-chrome-crawler": "^1.8.0",
+    "puppeteer": "^1.5.0",
+    "redis": "2.8.0"
+  }
+}
